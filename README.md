@@ -1,6 +1,6 @@
 # NetPractice
 
-________________________________________________________________________________________________
+__________________________________________________________________________________________________________________
 
 # what is tcp :
 ## Transmission Control Protocol
@@ -19,7 +19,7 @@ Congestion control: *TCP* helps prevent network congestion by monitoring the net
 
 Connection-oriented: *TCP* establishes a connection between the communicating devices before data transfer. This connection remains active until both devices agree to terminate it.
 
-________________________________________________________________________________________________
+__________________________________________________________________________________________________________________
 
 # what is ip adress :
 ## internet protocol address
@@ -54,7 +54,7 @@ This is the most commonly used version of IP addresses. It consists of a 32-bit 
 (Internet Protocol version 6): 
 With the growth of the Internet and the depletion of available IPv4 addresses, IPv6 was introduced. IPv6 addresses are 128-bit numbers, expressed in hexadecimal form, separated by colons. For example, 2001:0db8:85a3:0000:0000:8a2e:0370:7334 is an IPv6 address.
 
-________________________________________________________________________________________________
+__________________________________________________________________________________________________________________
 
 # Subnet Mask
 
@@ -62,7 +62,7 @@ ________________________________________________________________________________
 
 A subnet mask is a 32 bits (4 bytes) address used to distinguish between a network address and a host address in the IP address. It defines the range of IP addresses that can be used within a network or a subnet.
 
-________________________________________________________________________________________________
+__________________________________________________________________________________________________________________
 
 # CIDR Notation
 
@@ -72,7 +72,7 @@ Therefore, the mask in the example above of 255.255.255.128, is equivalent to a 
 
 ![cidr](https://github.com/Unstablemental/NetPractice/assets/111853245/47f52402-a46b-451a-956f-987df23c55c6)
 
-________________________________________________________________________________________________
+__________________________________________________________________________________________________________________
 
 # Switch
 
@@ -80,7 +80,7 @@ ________________________________________________________________________________
 
 A switch connects multiple devices together in a single network. Unlike a router, the switch does not have any interfaces since it only distributes packets to its local network, and cannot talk directly to a network outside of its own.
 
-________________________________________________________________________________________________
+__________________________________________________________________________________________________________________
 
 # Router
 
@@ -88,7 +88,7 @@ ________________________________________________________________________________
 
 A router is a device that connects two or more packet-switched networks or subnetworks. It serves two primary functions: managing traffic between these networks by forwarding data packets to their intended IP addresses, and allowing multiple devices to use the same Internet connection
 
-________________________________________________________________________________________________
+__________________________________________________________________________________________________________________
 
 # Routing Table
 
