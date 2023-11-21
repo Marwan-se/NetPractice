@@ -54,4 +54,9 @@ This is the most commonly used version of IP addresses. It consists of a 32-bit 
 (Internet Protocol version 6): 
 With the growth of the Internet and the depletion of available IPv4 addresses, IPv6 was introduced. IPv6 addresses are 128-bit numbers, expressed in hexadecimal form, separated by colons. For example, 2001:0db8:85a3:0000:0000:8a2e:0370:7334 is an IPv6 address.
 
+# Subnet Mask
+
+![mask1](https://github.com/Unstablemental/NetPractice/assets/111853245/7b7f62e0-6261-4f4b-a82e-88f3ac6dda14)
+
+A subnet mask is a 32 bits (4 bytes) address used to distinguish between a network address and a host address in the IP address. It defines the range of IP addresses that can be used within a network or a subnet.
 
