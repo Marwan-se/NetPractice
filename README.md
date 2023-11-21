@@ -54,9 +54,22 @@ This is the most commonly used version of IP addresses. It consists of a 32-bit 
 (Internet Protocol version 6): 
 With the growth of the Internet and the depletion of available IPv4 addresses, IPv6 was introduced. IPv6 addresses are 128-bit numbers, expressed in hexadecimal form, separated by colons. For example, 2001:0db8:85a3:0000:0000:8a2e:0370:7334 is an IPv6 address.
 
+________________________________________________________________________________________________
+
 # Subnet Mask
 
 ![mask1](https://github.com/Unstablemental/NetPractice/assets/111853245/7b7f62e0-6261-4f4b-a82e-88f3ac6dda14)
 
 A subnet mask is a 32 bits (4 bytes) address used to distinguish between a network address and a host address in the IP address. It defines the range of IP addresses that can be used within a network or a subnet.
 
+![Pubconcierge-Subnet-Class](https://github.com/Unstablemental/NetPractice/assets/111853245/3f5e46b0-f6b7-4ec4-851f-88bdf5191530)
+
+________________________________________________________________________________________________
+
+# CIDR Notation
+
+The mask can also be represented with the Classless Inter-Domain Routing (CIDR). This form represents the mask as a slash "/", followed by the number of bits that serve as the network address.
+
+Therefore, the mask in the example above of 255.255.255.128, is equivalent to a mask of /25 using the CIDR notation, since 25 bits out of 32 bits represent the network address.
+
+![cidr](https://github.com/Unstablemental/NetPractice/assets/111853245/47f52402-a46b-451a-956f-987df23c55c6)
