@@ -28,8 +28,8 @@ In networking, an IP address (Internet Protocol address) is a unique numerical l
 
 An IP address consists of a series of numbers, typically written in decimal form separated by periods (e.g., 192.168.0.1). There are two versions of IP addresses in use today:
 
-# 1- IPv4.
-# 2- IPv6.
+1- IPv4.
+2- IPv6.
 
 IP addresses are used for two main purposes:
 
@@ -40,7 +40,7 @@ device   from another.
 Routing:
 IP addresses play a crucial role in routing data across networks. Routers on the internet use IP addresses to determine the best path for data packets to reach their intended destination. Each device's IP address helps in directing the traffic to the correct destination.
 
-## difference between [ IPv4 ] && [ IPv6 ]:
+## difference between # IPv4 && # IPv6:
 
 ![ip_version](https://github.com/Unstablemental/NetPractice/assets/111853245/6c519743-5a66-45ea-8d97-b6444a78b711)
 
