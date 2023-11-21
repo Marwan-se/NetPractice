@@ -2,7 +2,7 @@
 
 ________________________________________________________________________________________________
 
-# WHAT IS TCP :
+# what is tcp :
 ## Transmission Control Protocol
 
 <img width="514" alt="Screen Shot 2023-11-21 at 5 19 10 PM" src="https://github.com/Unstablemental/NetPractice/assets/111853245/6fe48652-859a-423e-90a0-b9c351702136">
@@ -18,3 +18,14 @@ Flow control: *TCP* regulates the flow of data between sender and receiver to pr
 Congestion control: *TCP* helps prevent network congestion by monitoring the network's condition and adjusting the transmission rate accordingly. It uses congestion control algorithms to avoid overwhelming the network with excessive traffic.
 
 Connection-oriented: *TCP* establishes a connection between the communicating devices before data transfer. This connection remains active until both devices agree to terminate it.
+
+________________________________________________________________________________________________
+
+# what is ip adress :
+## internet protocol address
+
+In networking, an IP address (Internet Protocol address) is a unique numerical label assigned to each device connected to a computer network that uses the Internet Protocol for communication. It serves two primary functions: identifying the host or network interface and providing the location of the device in the network.
+
+An IP address consists of a series of numbers, typically written in decimal form separated by periods (e.g., 192.168.0.1). There are two versions of IP addresses in use today:
+
+# 1.[IPv4]
