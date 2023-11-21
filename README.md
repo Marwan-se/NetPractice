@@ -2,7 +2,7 @@
 
 ________________________________________________________________________________________________
 
-# what is tcp :
+# [what is tcp] :
 ## Transmission Control Protocol
 
 <img width="514" alt="Screen Shot 2023-11-21 at 5 19 10 PM" src="https://github.com/Unstablemental/NetPractice/assets/111853245/6fe48652-859a-423e-90a0-b9c351702136">
@@ -21,11 +21,23 @@ Connection-oriented: *TCP* establishes a connection between the communicating de
 
 ________________________________________________________________________________________________
 
-# what is ip adress :
+# [what is ip adress] :
 ## internet protocol address
 
 In networking, an IP address (Internet Protocol address) is a unique numerical label assigned to each device connected to a computer network that uses the Internet Protocol for communication. It serves two primary functions: identifying the host or network interface and providing the location of the device in the network.
 
 An IP address consists of a series of numbers, typically written in decimal form separated by periods (e.g., 192.168.0.1). There are two versions of IP addresses in use today:
 
-# 1.[IPv4]
+1- IPv4.
+2- IPv6.
+
+IP addresses are used for two main purposes:
+
+Host or device identification:
+Every device connected to a network, such as a computer, smartphone, server, or      router, requires a unique IP address to be identified within that network. It helps in distinguishing one     
+device   from another.
+
+Routing:
+IP addresses play a crucial role in routing data across networks. Routers on the internet use IP addresses to determine the best path for data packets to reach their intended destination. Each device's IP address helps in directing the traffic to the correct destination.
+
+
