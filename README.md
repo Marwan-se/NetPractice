@@ -100,3 +100,10 @@ A routing table is a set of rules, often viewed in table format, that's used to 
 Destination: The destination specifies a network address on which a host is the end target of the packets. The route of default or 0.0.0.0/0, is the route that takes effect when no other route is available for an IP destination address. The default route will use the next-hop address to send the packets on their way without giving a specific destination. The default route will match any network.
 
 Next hop: The next hop refers to the next closest router a packet can go through. It is the IP address of the next router on the packet's way. Every single router maintains its routing table with a next hop address.
+
+__________________________________________________________________________________________________________________
+
+# cheat sheet
+
+![chtsht](https://github.com/Unstablemental/NetPractice/assets/111853245/a723cf7f-6bab-4109-8dc7-a3f3b67cff94)
+
