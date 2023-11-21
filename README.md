@@ -28,8 +28,8 @@ In networking, an IP address (Internet Protocol address) is a unique numerical l
 
 An IP address consists of a series of numbers, typically written in decimal form separated by periods (e.g., 192.168.0.1). There are two versions of IP addresses in use today:
 
-1- IPv4.
-2- IPv6.
+[1- IPv4.](url)
+[2- IPv6.](url)
 
 IP addresses are used for two main purposes:
 
