@@ -73,3 +73,32 @@ The mask can also be represented with the Classless Inter-Domain Routing (CIDR).
 Therefore, the mask in the example above of 255.255.255.128, is equivalent to a mask of /25 using the CIDR notation, since 25 bits out of 32 bits represent the network address.
 
 ![cidr](https://github.com/Unstablemental/NetPractice/assets/111853245/47f52402-a46b-451a-956f-987df23c55c6)
+
+________________________________________________________________________________________________
+
+# Switch
+
+![switch1](https://github.com/Unstablemental/NetPractice/assets/111853245/c3979791-6b73-4dd2-af3b-5f3ad2f086b3)
+
+A switch connects multiple devices together in a single network. Unlike a router, the switch does not have any interfaces since it only distributes packets to its local network, and cannot talk directly to a network outside of its own.
+
+________________________________________________________________________________________________
+
+# Router
+
+![route1](https://github.com/Unstablemental/NetPractice/assets/111853245/53b23be0-6296-44c2-895a-d11c13e98c7c)
+
+A router is a device that connects two or more packet-switched networks or subnetworks. It serves two primary functions: managing traffic between these networks by forwarding data packets to their intended IP addresses, and allowing multiple devices to use the same Internet connection
+
+________________________________________________________________________________________________
+
+# Routing Table
+
+
+![routing_table1](https://github.com/Unstablemental/NetPractice/assets/111853245/babddf0d-a6d1-466a-90e9-ef8fdcb8c083)
+
+A routing table is a set of rules, often viewed in table format, that's used to determine where data packets traveling over an Internet Protocol (IP) network will be directed. This table is usually stored inside the Random Access Memory of forwarding devices, such as routers and network switches.
+
+Destination: The destination specifies a network address on which a host is the end target of the packets. The route of default or 0.0.0.0/0, is the route that takes effect when no other route is available for an IP destination address. The default route will use the next-hop address to send the packets on their way without giving a specific destination. The default route will match any network.
+
+Next hop: The next hop refers to the next closest router a packet can go through. It is the IP address of the next router on the packet's way. Every single router maintains its routing table with a next hop address.
