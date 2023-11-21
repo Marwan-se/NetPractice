@@ -11,7 +11,7 @@ ________________________________________________________________________________
 
 ==TCP== provides several features, including:
 
-Reliability: ==TCP== guarantees that data sent by one device will be received correctly by the other device. It achieves this through mechanisms such as acknowledgement, retransmission of lost packets, and sequencing of segments.
+Reliability: ==Thttps://github.com/QasidAhmad/3gratitudes/labels/enhancementCP== guarantees that data sent by one device will be received correctly by the other device. It achieves this through mechanisms such as acknowledgement, retransmission of lost packets, and sequencing of segments.
 
 Flow control: ==TCP== regulates the flow of data between sender and receiver to prevent overwhelming the receiving device. It uses a sliding window mechanism to dynamically adjust the amount of data sent based on the receiver's capacity.
 
