@@ -1,6 +1,7 @@
 # NetPractice
-This project is a general practical exercise to let you discover networking.
+
+________________________________________________________________________________________________
 
 WHAT IS TCP:
 
-![tcp2](https://github.com/Unstablemental/NetPractice/assets/111853245/ee25fa9b-762c-4591-a5e5-f3147986956c)
+<img width="514" alt="Screen Shot 2023-11-21 at 5 19 10 PM" src="https://github.com/Unstablemental/NetPractice/assets/111853245/6fe48652-859a-423e-90a0-b9c351702136">
