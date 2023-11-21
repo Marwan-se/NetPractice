@@ -44,8 +44,13 @@ IP addresses play a crucial role in routing data across networks. Routers on the
 
 ![ip_version](https://github.com/Unstablemental/NetPractice/assets/111853245/6c519743-5a66-45ea-8d97-b6444a78b711)
 
-[IPv4 (Internet Protocol version 4):]
+IPv4 (Internet Protocol version 4):
+```
 This is the most commonly used version of IP addresses. It consists of a 32-bit number, divided into four octets (each octet representing 8 bits). IPv4 addresses are expressed in dotted-decimal notation, as mentioned earlier. For example, 192.168.0.1 is an IPv4 address.
+```
 
-[IPv6 (Internet Protocol version 6): ]
+IPv6 (Internet Protocol version 6): 
+```
 With the growth of the Internet and the depletion of available IPv4 addresses, IPv6 was introduced. IPv6 addresses are 128-bit numbers, expressed in hexadecimal form, separated by colons. For example, 2001:0db8:85a3:0000:0000:8a2e:0370:7334 is an IPv6 address.
+```
+
